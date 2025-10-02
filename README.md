@@ -1,4 +1,3 @@
-# Text-Mining-for-Topic-Modeling
 
 # Text Mining for Topic Modeling (LDA)
 
